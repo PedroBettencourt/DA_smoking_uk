@@ -1,4 +1,4 @@
-# Smoking in the UK Analysis
+# Smoking in the UK Case Study
 
 ---
 
